@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,unit,manufacturer,prescription_required,in_stock
+M001,Paracetamol 500mg (10 tablets),Pain Relief,25.0,strip,Sun Pharma,False,True
+M002,Ibuprofen 400mg (10 tablets),Pain Relief,38.0,strip,Cipla,False,True
+M003,Aspirin 75mg (14 tablets),Pain Relief,22.0,strip,Bayer,False,True
+M004,Crocin Advance (15 tablets),Pain Relief,55.0,strip,GSK,True,True
+M005,Omeprazole 20mg (10 caps),Gastric,42.0,strip,Dr Reddy's,True,True
+M006,Pantoprazole 40mg (10 tabs),Gastric,65.0,strip,Zydus,False,True
+M007,Antacid Syrup 170ml,Gastric,85.0,bottle,Pfizer,False,True
+M008,Cetirizine 10mg (10 tabs),Allergy,28.0,strip,Mankind,False,True
+M009,Loratadine 10mg (10 tabs),Allergy,45.0,strip,Cipla,True,True
+M010,Levocet Syrup 60ml,Allergy,95.0,bottle,UCB,False,True
+M011,Metformin 500mg (10 tabs),Diabetes,32.0,strip,Sun Pharma,False,True
+M012,Glimepiride 2mg (10 tabs),Diabetes,78.0,strip,Sanofi,False,True
+M013,Insulin Glargine 3ml pen,Diabetes,820.0,pen,Novo Nordisk,False,True
+M014,Amlodipine 5mg (10 tabs),Cardiac,35.0,strip,Cipla,True,True
+M015,Atorvastatin 10mg (10 tabs),Cardiac,95.0,strip,Pfizer,False,True
+M016,Losartan 50mg (10 tabs),Cardiac,62.0,strip,Dr Reddy's,False,True
+M017,Amoxicillin 500mg (10 caps),Antibiotics,85.0,strip,GSK,False,True
+M018,Azithromycin 500mg (3 tabs),Antibiotics,128.0,strip,Cipla,False,True
+M019,Ciprofloxacin 500mg (10 tabs),Antibiotics,95.0,strip,Bayer,True,False
+M020,Vitamin D3 60K IU (4 caps),Vitamins,145.0,strip,Sun Pharma,True,True
+M021,Vitamin C 500mg (10 tabs),Vitamins,38.0,strip,Himalaya,False,True
+M022,Multivitamin Capsules (30 caps),Vitamins,285.0,bottle,Pfizer,False,True
+M023,Zinc 50mg (10 tabs),Vitamins,42.0,strip,Mankind,True,True
+M024,B-Complex (10 tabs),Vitamins,35.0,strip,Cipla,True,True
+M025,Cough Syrup 100ml,Cold & Cough,95.0,bottle,Piramal,True,True
+M026,Sinarest Tablet (10 tabs),Cold & Cough,52.0,strip,Centaur,True,True
+M027,Vicks VapoRub 50g,Cold & Cough,145.0,jar,P&G,True,True
+M028,Thermometer Digital,Medical Devices,285.0,piece,Dr Morepen,True,True
+M029,Blood Pressure Monitor,Medical Devices,1850.0,piece,Omron,True,False
+M030,Pulse Oximeter,Medical Devices,995.0,piece,Dr Trust,True,True

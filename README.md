@@ -1,6 +1,7 @@
 # QuickMeds Data Platform
 
 **Team Members:** Rekha Kumre,Bhupesh Bora,Sayan Naskar,Diksha Kumari Sah,Badal Sonkar, DV Hritic,Salam Dheeraj Singh, Manas Rohit Shouche
+
 **Batch:** DE AWS Batch 2026 (SIGMOID)
 
 ## About QuickMeds

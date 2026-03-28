@@ -1,7 +1,7 @@
 # QuickMeds Data Platform
 
-**Author:** Diksha Kumari Sah
-**Batch:** AWS Batch — Sigmoid DE Bengaluru 2026
+**Team Members:** Rekha Kumre,Bhupesh Bora,Sayan Naskar,Diksha Kumari Sah,Badal Sonkar, DV Hritic,Salam Dheeraj Singh, Manas Rohit Shouche
+**Batch:** DE AWS Batch 2026 (SIGMOID)
 
 ## About QuickMeds
 
@@ -30,7 +30,7 @@ quickmeds-data-platform/
 
 ## Getting Started
 ```bash
-git clone https://github.com/your-username/quickmeds-data-platform.git
+git clone https://github.com/pagaladm/quickmeds-data-platform.git
 cd quickmeds-data-platform
 ```
 
